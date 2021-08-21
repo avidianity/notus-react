@@ -4,6 +4,7 @@
 
 Converted whole project into typescript
 
+### Added dependencies
 ```
 @types/jest
 @types/node

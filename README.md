@@ -1,10 +1,8 @@
-# Notus React <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fnotus-react%2F%23%2F&text=Start%20your%20development%20with%20a%20Free%20Tailwind%20CSS%20and%20React%20UI%20Kit%20and%20Admin.%20Let%20Notus%20React%20amaze%20you%20with%20its%20cool%20features%20and%20build%20tools%20and%20get%20your%20project%20to%20a%20whole%20new%20level.%20" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
-
-![version](https://img.shields.io/badge/version-1.1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/creativetimofficial/notus-react/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/notus-react.svg)</a> <a href="https://github.com/creativetimofficial/notus-react/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/notus-react.svg)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
+# Notus React
 
 ![Notus React](https://github.com/creativetimofficial/public-assets/blob/master/notus-react/notus-react.jpg?raw=true)
 
-### A beautiful UI Kit and Admin for Tailwind CSS and React.
+## A beautiful UI Kit and Admin for Tailwind CSS and React.
 
 Start your development with a Free Tailwind CSS and React UI Kit and Admin. Let Notus React amaze you with its cool features and build tools and get your project to a whole new level.
 
@@ -17,7 +15,7 @@ If you like bright and fresh colors, you will love this Free Tailwind CSS Templa
 
 ### Get Started
 
-- Install NodeJS **LTS** version from <a href="https://nodejs.org/en/?ref=creativetim">NodeJs Official Page</a>
+- Install NodeJS **LTS** version from <a href="https://nodejs.org/en/?ref=creativetim">NodeJS Official Page</a>
 - Download the product on this page
 - Unzip the downloaded file to a folder in your computer
 - Open Terminal
@@ -81,24 +79,33 @@ We also feature the following 18 dynamic components:
 
 ## Table of Contents
 
-* [Versions](#versions)
-* [Documentation](#documentation)
-* [Quick Start](#quick-start)
-* [Files and folders](#files-and-folders)
-* [Browser Support](#browser-support)
-* [Reporting Issues](#reporting-issues)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-* [Resources](#resources)
+- [Notus React](#notus-react)
+  - [A beautiful UI Kit and Admin for Tailwind CSS and React.](#a-beautiful-ui-kit-and-admin-for-tailwind-css-and-react)
+    - [Get Started](#get-started)
+    - [Pages](#pages)
+    - [Fully Coded Components](#fully-coded-components)
+    - [CSS Components](#css-components)
+    - [React Components](#react-components)
+  - [Table of Contents](#table-of-contents)
+  - [Versions](#versions)
+  - [Documentation](#documentation)
+  - [Quick start](#quick-start)
+  - [Files and Folder](#files-and-folder)
+  - [Browser Support](#browser-support)
+  - [Reporting Issues](#reporting-issues)
+  - [Licensing](#licensing)
+  - [Useful Links](#useful-links)
+    - [Social Media](#social-media)
+  - [Resources](#resources)
 
 ## Versions
 
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-angular?ref=nr-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/js.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-js?ref=nr-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/nextjs.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-nextjs?ref=nr-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-react?ref=nr-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/svelte.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-svelte?ref=nr-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-notus?ref=nr-github-readme)
 
 
-| Angular | JavaScript / HTML | NextJS | React | Svelte | VueJS |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [![Notus Angular](https://github.com/creativetimofficial/public-assets/blob/master/notus-angular/notus-angular.jpg?raw=true)](https://www.creative-tim.com/product/notus-angular?ref=nr-github-readme)  | [![Notus JS](https://github.com/creativetimofficial/public-assets/blob/master/notus-js/notus-js.jpg?raw=true)](https://www.creative-tim.com/product/notus-js?ref=nr-github-readme)  | [![Notus NextJS](https://github.com/creativetimofficial/public-assets/blob/master/notus-nextjs/notus-nextjs.jpg?raw=true)](https://www.creative-tim.com/product/notus-nextjs?ref=nr-github-readme)  | [![Notus React](https://github.com/creativetimofficial/public-assets/blob/master/notus-react/notus-react.jpg?raw=true)](https://www.creative-tim.com/product/notus-react?ref=nr-github-readme)  | [![Notus Svelte](https://github.com/creativetimofficial/public-assets/blob/master/notus-svelte/notus-svelte.jpg?raw=true)](https://www.creative-tim.com/product/notus-svelte?ref=nr-github-readme)  | [![Vue Notus](https://github.com/creativetimofficial/public-assets/blob/master/vue-notus/vue-notus.jpg?raw=true)](https://www.creative-tim.com/product/vue-notus?ref=nr-github-readme)
+|                                                                                                Angular                                                                                                 |                                                                                 JavaScript / HTML                                                                                  |                                                                                               NextJS                                                                                               |                                                                                             React                                                                                              |                                                                                               Svelte                                                                                               |                                                                                         VueJS                                                                                          |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Notus Angular](https://github.com/creativetimofficial/public-assets/blob/master/notus-angular/notus-angular.jpg?raw=true)](https://www.creative-tim.com/product/notus-angular?ref=nr-github-readme) | [![Notus JS](https://github.com/creativetimofficial/public-assets/blob/master/notus-js/notus-js.jpg?raw=true)](https://www.creative-tim.com/product/notus-js?ref=nr-github-readme) | [![Notus NextJS](https://github.com/creativetimofficial/public-assets/blob/master/notus-nextjs/notus-nextjs.jpg?raw=true)](https://www.creative-tim.com/product/notus-nextjs?ref=nr-github-readme) | [![Notus React](https://github.com/creativetimofficial/public-assets/blob/master/notus-react/notus-react.jpg?raw=true)](https://www.creative-tim.com/product/notus-react?ref=nr-github-readme) | [![Notus Svelte](https://github.com/creativetimofficial/public-assets/blob/master/notus-svelte/notus-svelte.jpg?raw=true)](https://www.creative-tim.com/product/notus-svelte?ref=nr-github-readme) | [![Vue Notus](https://github.com/creativetimofficial/public-assets/blob/master/vue-notus/vue-notus.jpg?raw=true)](https://www.creative-tim.com/product/vue-notus?ref=nr-github-readme) |
 
 ## Documentation
 The documentation for the Notus React is hosted at our <a href="https://www.creative-tim.com/learning-lab/tailwind/react/overview/notus?ref=nr-readme" target="_blank">website</a>.
@@ -119,7 +126,7 @@ notus-react
 ├── LICENSE.md
 ├── README.md
 ├── gulpfile.js
-├── jsconfig.json
+├── tsconfig.json
 ├── package.json
 ├── public
 │   ├── favicon.ico
@@ -136,50 +143,51 @@ notus-react
 │   │       └── tailwind.css
 │   ├── components
 │   │   ├── Cards
-│   │   │   ├── CardBarChart.js
-│   │   │   ├── CardLineChart.js
-│   │   │   ├── CardPageVisits.js
-│   │   │   ├── CardProfile.js
-│   │   │   ├── CardSettings.js
-│   │   │   ├── CardSocialTraffic.js
-│   │   │   ├── CardStats.js
-│   │   │   └── CardTable.js
+│   │   │   ├── CardBarChart.tsx
+│   │   │   ├── CardLineChart.tsx
+│   │   │   ├── CardPageVisits.tsx
+│   │   │   ├── CardProfile.tsx
+│   │   │   ├── CardSettings.tsx
+│   │   │   ├── CardSocialTraffic.tsx
+│   │   │   ├── CardStats.tsx
+│   │   │   └── CardTable.tsx
 │   │   ├── Dropdowns
-│   │   │   ├── IndexDropdown.js
-│   │   │   ├── NotificationDropdown.js
-│   │   │   ├── PagesDropdown.js
-│   │   │   ├── TableDropdown.js
-│   │   │   └── UserDropdown.js
+│   │   │   ├── IndexDropdown.tsx
+│   │   │   ├── NotificationDropdown.tsx
+│   │   │   ├── PagesDropdown.tsx
+│   │   │   ├── TableDropdown.tsx
+│   │   │   └── UserDropdown.tsx
 │   │   ├── Footers
-│   │   │   ├── Footer.js
-│   │   │   ├── FooterAdmin.js
-│   │   │   └── FooterSmall.js
+│   │   │   ├── Footer.tsx
+│   │   │   ├── FooterAdmin.tsx
+│   │   │   └── FooterSmall.tsx
 │   │   ├── Headers
-│   │   │   └── HeaderStats.js
+│   │   │   └── HeaderStats.tsx
 │   │   ├── Maps
-│   │   │   └── MapExample.js
+│   │   │   └── MapExample.tsx
 │   │   ├── Navbars
-│   │   │   ├── AdminNavbar.js
-│   │   │   ├── AuthNavbar.js
-│   │   │   └── IndexNavbar.js
+│   │   │   ├── AdminNavbar.tsx
+│   │   │   ├── AuthNavbar.tsx
+│   │   │   └── IndexNavbar.tsx
 │   │   └── Sidebar
-│   │       └── Sidebar.js
-│   ├── index.js
+│   │       └── Sidebar.tsx
+│   ├── App.tsx
+│   ├── index.tsx
 │   ├── layouts
-│   │   ├── Admin.js
-│   │   └── Auth.js
+│   │   ├── Admin.tsx
+│   │   └── Auth.tsx
 │   └── views
-│       ├── Index.js
-│       ├── Landing.js
-│       ├── Profile.js
+│       ├── Index.tsx
+│       ├── Landing.tsx
+│       ├── Profile.tsx
 │       ├── admin
-│       │   ├── Dashboard.js
-│       │   ├── Maps.js
-│       │   ├── Settings.js
-│       │   └── Tables.js
+│       │   ├── Dashboard.tsx
+│       │   ├── Maps.tsx
+│       │   ├── Settings.tsx
+│       │   └── Tables.tsx
 │       └── auth
-│           ├── Login.js
-│           └── Register.js
+│           ├── Login.tsx
+│           └── Register.tsx
 └── tailwind.config.js
 ```
 
@@ -187,8 +195,8 @@ notus-react
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-| Chrome | Firefox | Edge | Safari | Opera |
-|:---:|:---:|:---:|:---:|:---:|
+|                                                               Chrome                                                               |                                                               Firefox                                                                |                                                               Edge                                                                |                                                               Safari                                                                |                                                               Opera                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
 
 ## Reporting Issues
